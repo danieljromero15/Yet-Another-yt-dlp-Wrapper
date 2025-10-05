@@ -1,3 +1,5 @@
+A project with the goal of simplifying yt-dlp downloads from YouTube
+
 Goals:
 
 * Download yt-dlp from GitHub if not found in repo or path
